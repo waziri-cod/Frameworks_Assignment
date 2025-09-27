@@ -1,0 +1,15 @@
+# Ignore dataset files
+metadata.csv
+metadata_cleaned.csv
+
+# Ignore virtual environment
+.venv/
+venv/
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+git 
